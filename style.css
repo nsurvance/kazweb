@@ -94,91 +94,91 @@ body {
 }    
 
 #img1{
-    background-image: url(../images/thumbnails/1bw.jpg);
+    background-image: url(images/thumbnails/1bw.jpg);
     background-size:100px;
 }
 #img1:hover{
-    background-image: url(../images/thumbnails/1c.jpg);
+    background-image: url(images/thumbnails/1c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
 
 #img2{
-    background-image: url(../images/thumbnails/10bw.jpg);
+    background-image: url(images/thumbnails/10bw.jpg);
     background-size:100px;
 }
 #img2:hover{
-    background-image: url(../images/thumbnails/10c.jpg);
+    background-image: url(images/thumbnails/10c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
 
 #img3{
-    background-image: url(../images/thumbnails/3bw.jpg);
+    background-image: url(images/thumbnails/3bw.jpg);
     background-size:100px;
 }
 #img3:hover{
-    background-image: url(../images/thumbnails/3c.jpg);
+    background-image: url(images/thumbnails/3c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
 
 #img4{
-    background-image: url(../images/thumbnails/4bw.jpg);
+    background-image: url(images/thumbnails/4bw.jpg);
     background-size:100px;
 }
 #img4:hover{
-    background-image: url(../images/thumbnails/4c.jpg);
+    background-image: url(images/thumbnails/4c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
 
 #img5{
-    background-image: url(../images/thumbnails/5bw.jpg);
+    background-image: url(images/thumbnails/5bw.jpg);
     background-size:100px;
 }
 #img5:hover{
-    background-image: url(../images/thumbnails/5c.jpg);
+    background-image: url(images/thumbnails/5c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
 
 #img6{
-    background-image: url(../images/thumbnails/6bw.jpg.png);
+    background-image: url(images/thumbnails/6bw.jpg.png);
     background-size:100px;
 }
 #img6:hover{
-    background-image: url(../images/thumbnails/6c.jpg);
+    background-image: url(images/thumbnails/6c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
 
 #img7{
-    background-image: url(../images/thumbnails/7bw.jpg);
+    background-image: url(images/thumbnails/7bw.jpg);
     background-size:100px;
 }
 #img7:hover{
-    background-image: url(../images/thumbnails/7c.jpg);
+    background-image: url(images/thumbnails/7c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
 
 #img8{
-    background-image: url(../images/thumbnails/8bw.jpg);
+    background-image: url(images/thumbnails/8bw.jpg);
     background-size:100px;
 }
 #img8:hover{
-    background-image: url(../images/thumbnails/8c.jpg);
+    background-image: url(images/thumbnails/8c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
 
 #img9{
-    background-image: url(../images/thumbnails/9bw.jpg);
+    background-image: url(images/thumbnails/9bw.jpg);
     background-size:100px;
 }
 #img9:hover{
-    background-image: url(../images/thumbnails/9c.jpg);
+    background-image: url(images/thumbnails/9c.jpg);
     background-size:100px;
     transition: 0.3s;
 }
@@ -449,48 +449,48 @@ body {
     }
 
     #img1{
-        background-image: url(../images/thumbnails/1c.jpg);
+        background-image: url(images/thumbnails/1c.jpg);
         background-size:100px;
     }
     
     
     #img2{
-        background-image: url(../images/thumbnails/10c.jpg);
+        background-image: url(images/thumbnails/10c.jpg);
         background-size:100px;
     }
     
     #img3{
-        background-image: url(../images/thumbnails/3c.jpg);
+        background-image: url(images/thumbnails/3c.jpg);
         background-size:100px;
     }
     
     #img4{
-        background-image: url(../images/thumbnails/4c.jpg);
+        background-image: url(images/thumbnails/4c.jpg);
         background-size:100px;
     }
     
     #img5{
-        background-image: url(../images/thumbnails/5c.jpg);
+        background-image: url(images/thumbnails/5c.jpg);
         background-size:100px;
     }
     
     #img6{
-        background-image: url(../images/thumbnails/6c.jpg);
+        background-image: url(images/thumbnails/6c.jpg);
         background-size:100px;
     }
     
     #img7{
-        background-image: url(../images/thumbnails/7c.jpg);
+        background-image: url(images/thumbnails/7c.jpg);
         background-size:100px;
     }
     
     #img8{
-        background-image: url(../images/thumbnails/8c.jpg);
+        background-image: url(images/thumbnails/8c.jpg);
         background-size:100px;
     }
 
     #img9{
-        background-image: url(../images/thumbnails/9c.jpg);
+        background-image: url(images/thumbnails/9c.jpg);
         background-size:100px;
     }
     
