@@ -11,7 +11,7 @@
     <meta property="og:description" content="Artist and Student at Herron School of Art + Design.">
     <meta property="og:url" content="">
     <meta property="og:site_name" content="Kaz Newton Official Website">
-    <meta property="og:image" content="images/avatar.jpg">
+    <meta property="og:image" content="https://i.imgur.com/Np0cq6P.jpg">
     <meta property="og:image:width" content="1380">
     <meta property="og:image:height" content="1380">
 
