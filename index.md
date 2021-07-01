@@ -17,11 +17,11 @@
 
     <title>Kaz Newton</title>
 
-    <link rel="stylesheet" href="code/style.css">
-    <link rel="stylesheet" href="code/hover.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="hover.css">
     <link rel="shortcut icon" type="image/jpg" href="images/favicon2.png" />
 
-    <script src="code/java.js"></script>
+    <script src="java.js"></script>
     <script src="https://kit.fontawesome.com/bd1924c9a2.js" crossorigin="anonymous"></script>
 </head>
 
@@ -36,7 +36,7 @@
 
             <div id="header">
                 <!--Avatar-->
-                <img src="../images/avatar.jpg" alt="Avatar" id="avatar" class="head">
+                <img src="/images/avatar.jpg" alt="Avatar" id="avatar" class="head">
 
                 <!--Name-->
                 <h1 id="name" class="head">Kaz Newton</h1>
@@ -102,7 +102,7 @@
                 <!-- Type here -->
 
                 <a href="https://i.imgur.com/C3Oiorj.png" target="_blank">
-                    <img src="progress images/drawing (1).png" alt="drawing (1)">
+                    <img src="/progress images/drawing (1).png" alt="drawing (1)">
                 </a>
 
                 <p>This is a project I finished recently. I've been wanting to experiment with different body types and
@@ -110,7 +110,7 @@
                     muscular female character.</p>
 
                 <a href="https://i.imgur.com/po9fKe7.png" target="_blank">
-                    <img src="progress images/drawing (3).png" alt="drawing (3)">
+                    <img src="/progress images/drawing (3).png" alt="drawing (3)">
                 </a>
 
                 <p>Often when I begin doing a "for-fun" drawing like this it usually just begins with me drawing
@@ -119,7 +119,7 @@
                     hope to find more practice with in the future.</p>
 
                 <a href="https://i.imgur.com/M3vCZ1r.png" target="_blank">
-                    <img src="progress images/bad line art.jpg" alt="bad line art">
+                    <img src="/progress images/bad line art.jpg" alt="bad line art">
                 </a>
 
                 <p>The next step was line-art. This is an image of an old piece from a month-ish ago. I've noticed
@@ -127,13 +127,13 @@
                     explicit focus on this to try and deliver something that looks more up to standard.</p>
 
                 <a href="https://i.imgur.com/po9fKe7.png" target="_blank">
-                    <img src="progress images/drawing (2).png" alt="drawing (2)">
+                    <img src="/progress images/drawing (2).png" alt="drawing (2)">
                 </a>
 
                 <p>The line-art I ended up producing felt much better to me then the older drawing. The lines felt more
                     intentional like I was taking my time and giving it my attention.</p>
 
-                <img src="progress images/gif.gif" alt="gif">
+                <img src="/progress images/gif.gif" alt="gif">
 
                 <p>Next would have been the coloring process. To show this, here is .gif file of the full image being
                     drawn in it's entirety! (Sorry that it's flipped horizontally).
