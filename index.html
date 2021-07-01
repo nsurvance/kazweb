@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Kaz Newton">
+    <meta property="og:description" content="Artist and Student at Herron School of Art + Design.">
+    <meta property="og:url" content="">
+    <meta property="og:site_name" content="Kaz Newton Official Website">
+    <meta property="og:image" content="../images/avatar.jpg">
+    <meta property="og:image:width" content="1380">
+    <meta property="og:image:height" content="1380">
+
+    <title>Kaz Newton</title>
+
+    <link rel="stylesheet" href="/code/style.css">
+    <link rel="stylesheet" href="/code/hover.css">
+    <link rel="shortcut icon" type="image/jpg" href="/images/favicon2.png" />
+
+    <script src="/code/java.js"></script>
+    <script src="https://kit.fontawesome.com/bd1924c9a2.js" crossorigin="anonymous"></script>
+</head>
+
+
+
+<body>
+    <!--Wrapper contains all information-->
+    <div id="wrapper">
+
+        <!--Main information-->
+        <div id="information">
+
+            <div id="header">
+                <!--Avatar-->
+                <img src="../images/avatar.jpg" alt="Avatar" id="avatar" class="head">
+
+                <!--Name-->
+                <h1 id="name" class="head">Kaz Newton</h1>
+
+                <!--icon hyper links-->
+                <div id="links" class="head">
+
+                    <a href="https://www.instagram.com/kaznoot/?hl=en" target="_blank">
+                        <i class="fab fa-instagram fa-2x hvr-grow" id="instagram"></i>
+                    </a>
+
+                    <a href="https://www.artstation.com/kaznoot" target="_blank">
+                        <i class="fab fa-artstation fa-2x hvr-grow" id="artstation"></i>
+                    </a>
+
+                    <a href="mailto:kaznoot@gmail.com" target="_blank">
+                        <i class="far fa-envelope fa-2x hvr-grow" id="email"></i>
+                    </a>
+
+                </div>
+            </div>
+
+            <p id="desc">Hi, I'm Kaz. I'm a drawing and illustration major at <a href="https://herron.iupui.edu/"
+                    target="_blank">Herron
+                    School of Art +
+                    Design</a> in <i class="fas fa-map-marker-alt"></i>&nbsp;Indianapolis,
+                Indiana. On this website you'll
+                find links
+                to my social media pages and updates to what I'm currently working on. Feel free to check out my works
+                or contact me anytime!</p>
+
+            <!--Gallery-->
+            <div id="gallery">
+                <a href="https://www.artstation.com/artwork/q9kqZn" target="_blank"><span id="img1"
+                        class="gall hvr-grow"></span></a>
+                <a href="https://www.artstation.com/artwork/QrQbor" target="_blank"><span id="img2"
+                        class="gall hvr-grow"></span></a>
+                <a href="https://www.artstation.com/artwork/189AZK" target="_blank"><span id="img3"
+                        class="gall hvr-grow"></span></a>
+                <a href="https://www.artstation.com/artwork/0nQALG" target="_blank"><span id="img4"
+                        class="gall hvr-grow"></span></a>
+                <a href="https://www.artstation.com/artwork/lxkJa5" target="_blank"><span id="img5"
+                        class="gall hvr-grow"></span></a>
+                <a href="https://www.artstation.com/artwork/w6k15V" target="_blank"><span id="img6"
+                        class="gall hvr-grow"></span></a>
+                <a href="https://www.artstation.com/artwork/q9kqON" target="_blank"><span id="img7"
+                        class="gall hvr-grow"></span></a>
+                <a href="https://www.artstation.com/artwork/rAko2m" target="_blank"><span id="img8"
+                        class="gall hvr-grow"></span></a>
+                <a href="https://www.artstation.com/artwork/J9YXg0" target="_blank"><span id="img9"
+                        class="gall hvr-grow"></span></a>
+            </div>
+
+        </div>
+        <!--End of Main Information-->
+
+        <!-- Progress side of the page -->
+        <div id="project">
+            <div id="type">
+                <!-- This is always the header -->
+                <h2>Check out my current project!</h2>
+                <h4>Last Updated 7/1/21</h4>
+                <!-- Type here -->
+
+                <a href="https://i.imgur.com/C3Oiorj.png" target="_blank">
+                    <img src="/progress images/drawing (1).png" alt="drawing (1)">
+                </a>
+
+                <p>This is a project I finished recently. I've been wanting to experiment with different body types and
+                    I've been watching a lot of <b>@LeanBeefPatty</b> on TikTok so I thought it would be fun to draw a
+                    muscular female character.</p>
+
+                <a href="https://i.imgur.com/po9fKe7.png" target="_blank">
+                    <img src="/progress images/drawing (3).png" alt="drawing (3)">
+                </a>
+
+                <p>Often when I begin doing a "for-fun" drawing like this it usually just begins with me drawing
+                    something random on the canvas and adjusting it till It fit's my liking. In this sketch you can see
+                    me roughly trying to play around with breaking down the figure into 3D shapes. This is something I
+                    hope to find more practice with in the future.</p>
+
+                <a href="https://i.imgur.com/M3vCZ1r.png" target="_blank">
+                    <img src="/progress images/bad line art.jpg" alt="bad line art">
+                </a>
+
+                <p>The next step was line-art. This is an image of an old piece from a month-ish ago. I've noticed
+                    recently I've begun slacking when I create line art so when I went into this piece, I wanted to put
+                    explicit focus on this to try and deliver something that looks more up to standard.</p>
+
+                <a href="https://i.imgur.com/po9fKe7.png" target="_blank">
+                    <img src="/progress images/drawing (2).png" alt="drawing (2)">
+                </a>
+
+                <p>The line-art I ended up producing felt much better to me then the older drawing. The lines felt more
+                    intentional like I was taking my time and giving it my attention.</p>
+
+                <img src="/progress images/gif.gif" alt="gif">
+
+                <p>Next would have been the coloring process. To show this, here is .gif file of the full image being
+                    drawn in it's entirety! (Sorry that it's flipped horizontally).
+
+                    <!--<h3>It's Summer time!</h3>
+                <p>
+                    After 2 long semester's with classes steeped in the covid-19 pandemic, I'm taking a short break for
+                    the summer. Feel free to check back later! You never know when inspiration may
+                    strike.<br /><br />See you
+                    next semester! :)
+                </p> -->
+            </div>
+            <!-- End of Type -->
+        </div>
+        <!-- End of progress -->
+
+    </div>
+    <!--END OF WRAPPER-->
+</body>
+
+</html>
