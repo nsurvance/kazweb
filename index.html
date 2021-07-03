@@ -109,7 +109,7 @@
                     I've been watching a lot of <b>@LeanBeefPatty</b> on TikTok so I thought it would be fun to draw a
                     muscular female character.</p>
 
-                <a href="https://i.imgur.com/po9fKe7.png" target="_blank">
+                <a href="https://i.imgur.com/1zDsB2Z.png" target="_blank">
                     <img src="progress images/drawing (3).png" alt="drawing (3)">
                 </a>
 
