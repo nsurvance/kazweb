@@ -23,6 +23,7 @@ body {
     pointer-events:none;
 } */
 
+
 /* ================= Project ================= */
 #project {
     padding-left: 20px;
@@ -68,6 +69,7 @@ body {
     line-height: 2em;
 }
 
+/* something i copy and pasted to help format square youtube videos(?) */
 iframe{
     width: 50%;
     display: block;
@@ -454,6 +456,32 @@ border-color: white;
 
 }
 
+/* Hides the lower 6 grid images on desktop mode */
+@media(min-width:700px){
+    #link4 {
+        display:none;
+    }
+    
+    #link5 {
+        display:none;
+    }
+    
+    #link6{
+        display:none;
+    }
+    
+    #link7{
+        display:none;
+    }
+    
+    #link8{
+        display:none;
+    }
+    
+    #link9{
+        display:none;
+    }
+}
 
 
 /* Alignment for Mobile */
